@@ -1,0 +1,32 @@
+[
+  {
+    "id": "rnd_1001",
+    "brandName": "SaaSReels",
+    "scriptHeadline": "Stop paying $2,000/mo to slow agencies!",
+    "format": "split_screen_demo",
+    "durationSec": 15,
+    "status": "completed",
+    "renderTimeMs": 1420,
+    "exportedAt": "2026-09-05T13:09:33.304Z"
+  },
+  {
+    "id": "rnd_1002",
+    "brandName": "Supabase",
+    "scriptHeadline": "Firebase bills getting out of hand?",
+    "format": "podcast_hook",
+    "durationSec": 16,
+    "status": "completed",
+    "renderTimeMs": 1850,
+    "exportedAt": "2026-09-05T12:09:33.304Z"
+  },
+  {
+    "id": "rnd_1003",
+    "brandName": "Linear",
+    "scriptHeadline": "Why every modern dev is dumping Jira in 2026",
+    "format": "split_gameplay",
+    "durationSec": 14,
+    "status": "completed",
+    "renderTimeMs": 1630,
+    "exportedAt": "2026-09-05T11:09:33.304Z"
+  }
+]

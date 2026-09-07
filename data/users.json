@@ -1,0 +1,53 @@
+[
+  {
+    "id": "usr_1788615767135_860a2a50",
+    "name": "Sarah Connor",
+    "email": "sarah@skynet.ai",
+    "phone": "+1-555-0144",
+    "passwordHash": "08a5fc5b857629ad9035c48d213ff692bb6593bc41eebfc26b9b7b94d875a08e0114a9c0f913c33aea0109a1564e17d4d80c075ed13ec18b5c22c796e72f3d42",
+    "salt": "67fca65fe013430eaa566ca4ca7ac98b",
+    "tier": "pro",
+    "creditsRemaining": 75,
+    "totalCredits": 75,
+    "isByok": false,
+    "brandName": "My SaaS",
+    "brandUrl": "https://mysaas.com",
+    "createdAt": "2026-09-05T13:42:47.135Z",
+    "lastLoginAt": "2026-09-05T13:42:48.403Z"
+  },
+  {
+    "id": "usr_1788616099217_6c5bd2b1",
+    "name": "Avi P",
+    "email": "shadowgaming8160@gmail.com",
+    "phone": "+91 810950907",
+    "passwordHash": "ed814bb1cf17a4d0e66634091439e4668211a9b10070cde8ec9e532670b0f7ea047ee8d4bea8ebb19ce7bab88db5e97631e1c6f831708fb0abe4ca1ec01a58d1",
+    "salt": "085e99da829a48a2603b345c5d0ad491",
+    "tier": "agency",
+    "creditsRemaining": 300,
+    "totalCredits": 300,
+    "isByok": false,
+    "brandName": "My SaaS Brand",
+    "brandUrl": "https://mysaas.com",
+    "createdAt": "2026-09-05T13:48:19.217Z",
+    "lastLoginAt": "2026-09-05T13:48:20.046Z"
+  },
+  {
+    "id": "usr_1788761551930_eaab3018",
+    "name": "Arjun Patel",
+    "email": "arjunpatel89806@gmail.com",
+    "phone": "+91 123456890",
+    "passwordHash": "11f6e86a1c4c51198bdc0d55acbb85cfe14a7b3baef973fc37e08f3cd1355b7b046158e99b5f6d0ba7d4f06551ee042573131f0c209c1c87416dd326cbdc3b40",
+    "salt": "164c17bacf281209aa4f8284c94a78e1",
+    "tier": "free",
+    "creditsRemaining": 3,
+    "totalCredits": 3,
+    "isByok": true,
+    "brandName": "My SaaS",
+    "brandUrl": "https://mysaas.com",
+    "isEmailVerified": true,
+    "isPhoneVerified": false,
+    "billingStatus": "active",
+    "createdAt": "2026-09-07T06:12:31.930Z",
+    "lastLoginAt": "2026-09-07T06:12:32.402Z"
+  }
+]

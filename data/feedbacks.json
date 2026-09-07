@@ -1,0 +1,51 @@
+[
+  {
+    "id": "fb_1788763078259_9yk22",
+    "userName": "Test Founder",
+    "userEmail": "testfounder@saasreels.ai",
+    "userTier": "pro",
+    "rating": 5,
+    "ratingLabel": "🚀 Mindblowing",
+    "comment": "The 5-second beta popup and 1500-letter feedback modal works seamlessly! Love the UI design and instant response.",
+    "targetUrl": "https://testsaas.com",
+    "timestamp": "2026-09-07T06:37:58.259Z",
+    "userAgent": "node"
+  },
+  {
+    "id": "fb_seed_101",
+    "userId": "usr_founder_1",
+    "userName": "Alex Vance",
+    "userEmail": "alex@growthscale.io",
+    "userTier": "pro",
+    "rating": 5,
+    "ratingLabel": "🚀 Insane",
+    "comment": "Generated 5 TikToks in under 3 minutes for our launch. The split-screen gameplay hook retention is incredible!",
+    "targetUrl": "https://growthscale.io",
+    "timestamp": "2026-09-07T02:37:58.256Z",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)"
+  },
+  {
+    "id": "fb_seed_102",
+    "userName": "Sarah Jenkins",
+    "userEmail": "sarah@hypertask.app",
+    "userTier": "free",
+    "rating": 5,
+    "ratingLabel": "🔥 Great",
+    "comment": "The voice synthesis is much cleaner with Edge Neural TTS. Would love direct YouTube Shorts auto-scheduling integration next!",
+    "targetUrl": "https://hypertask.app",
+    "timestamp": "2026-09-06T18:37:58.256Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "fb_seed_103",
+    "userName": "Devin K.",
+    "userEmail": "devin@saasify.co",
+    "userTier": "agency",
+    "rating": 4,
+    "ratingLabel": "🔥 Great",
+    "comment": "High viral scores on the Problem-Agitate-Solve hook template. Saved our video editor at least 15 hours this week.",
+    "targetUrl": "https://saasify.co",
+    "timestamp": "2026-09-06T06:37:58.256Z",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64)"
+  }
+]
